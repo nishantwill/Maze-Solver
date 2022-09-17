@@ -5,6 +5,8 @@
   on it changes its path to solve the maze. 2nd Uno gives 4 digital and 1 analog output to 1st Uno.
   Deploying a maze solving algorithm and simulating this bot as we try to solve as much as scenarios we can 
   think of.
+# Components:
+![image](https://user-images.githubusercontent.com/107374002/190832471-8301c154-563f-48f5-8bed-22a2d54500c5.png)
 
 # Circuit :
 ![image](https://user-images.githubusercontent.com/107374002/190831391-292059a3-6359-4897-9601-acaaa5b530fc.png)
